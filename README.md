@@ -1,7 +1,7 @@
 ![NIKHIL](https://github.com/Nikhil-coder390/Nikhil-coder390/assets/117470300/eb49d1f4-ef3a-45f5-8934-3ef66a3da02c)
 ### Hi there 👋, Welcome!
 
-Hello!👋🏻 My name is **Sundaraneedi Nikhil Venkata Satya Sai**. I am a **B.Tech 2nd year CSE** student at **Amrita Vishwa Vidyapeetham**. 🏫
+Hello!👋🏻 My name is **Sundaraneedi Nikhil Venkata Satya Sai**. I am a **B.Tech 3rd year CSE** student at **Amrita Vishwa Vidyapeetham**. 🏫
 
 I have a huge interest in **UI/UX design**, **designing**, **editing**, **coding**, and **cyber security**📝. Currently, I am learning **full stack web development** and aspiring to be a successful UI/UX designer and coder👩‍💻.
 
