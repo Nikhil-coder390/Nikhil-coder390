@@ -2,7 +2,7 @@
 
 
 ## Hello! 👋🏻  
-My name is **Sundaraneedi Nikhil Venkata Satya Sai**. I am a **B.Tech 3rd year CSE** student at **Amrita Vishwa Vidyapeetham, Amaravati**. 🏫  
+My name is **Nikhil**. I am a **B.Tech 3rd year CSE** student at **Amrita Vishwa Vidyapeetham, Amaravati**. 🏫  
 
 I have a strong passion for **UI/UX design**, **web development**, **cybersecurity**, and **AI-powered applications** 📝. Currently, I am learning **Full Stack Web Development** and **Cloud Computing (AWS)**, aspiring to be a **successful developer and designer** 👨‍💻.  
 
