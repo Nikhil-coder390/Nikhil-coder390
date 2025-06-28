@@ -10,7 +10,7 @@ I am a **certified AWS Cloud Practitioner** and actively participate in **hackat
 
 ## 🔹 Technical Skills  
 - **Programming Languages:** C, C++, Java, Python, JavaScript  
-- **Web Development:** React.js, TypeScript, Supabase, Frontend Development  
+- **Web Development:** React.js, TypeScript, Supabase, NodeJS, ExpressJS
 - **Cloud:** AWS  
 - **Other Skills:** UI/UX Design, Editing, Team Management  
 
