@@ -11,7 +11,7 @@ I am a **certified AWS Cloud Practitioner** and actively participate in **hackat
 ## 🔹 Technical Skills  
 - **Programming Languages:** C, C++, Java, Python, JavaScript  
 - **Web Development:** React.js, TypeScript, Supabase, NodeJS, ExpressJS
-- **Database:** MongoDB, MySQL
+- **Database:** MongoDB, MySQL, PostgreSQL
 - **Cloud:** AWS  
 - **Other Skills:** UI/UX Design, Editing, Team Management  
 
