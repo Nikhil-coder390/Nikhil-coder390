@@ -13,7 +13,7 @@ I am a **certified AWS Cloud Practitioner** and actively participate in **hackat
 - **Web Development:** React.js, TypeScript, Supabase, NodeJS, ExpressJS
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Cloud:** AWS  
-- **Other Skills:** UI/UX Design, Editing, Team Management  
+- **Other Skills:** UI/UX Design, Figma, Editing, Team Management  
 
 I'm always open to collaborating, learning, and contributing to innovative projects! 🚀  
 
