@@ -24,7 +24,7 @@ I'm always open to collaborating, learning, and contributing to innovative proje
 - 🌱 I’m currently learning full stack web development.
 - 📫 How to reach me:
 - <a href="https://www.instagram.com/__.mr._.nikhil.__/">Instagram</a>
-- <a href="https://www.linkedin.com/in/nikhil-sai-37ab07253/">LinkedIn</a>
+- <a href="www.linkedin.com/in/nikhil-sundaraneedi">LinkedIn</a>
 - <a href="https://twitter.com/NikhilN51695582">Twitter</a>
 - 😄 Pronouns: He/Him
 
