@@ -26,5 +26,4 @@ I'm always open to collaborating, learning, and contributing to innovative proje
 - <a href="https://www.instagram.com/__.mr._.nikhil.__/">Instagram</a>
 - <a href="www.linkedin.com/in/nikhil-sundaraneedi">LinkedIn</a>
 - <a href="https://twitter.com/NikhilN51695582">Twitter</a>
-- 😄 Pronouns: He/Him
 
