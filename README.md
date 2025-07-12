@@ -4,7 +4,8 @@
 ## Hello! 👋🏻  
 My name is **Nikhil**. I am a **B.Tech 4th year CSE** student at **Amrita Vishwa Vidyapeetham, Amaravati**. 🏫  
 
-I have a strong passion for **UI/UX design**, **web development**, **cybersecurity**, and **AI-powered applications** 📝. Currently, I am learning **Full Stack Web Development** and **Cloud Computing (AWS)**, aspiring to be a **successful developer and designer** 👨‍💻.  
+I have a strong passion for **UI/UX design**, **web development**, **cybersecurity**, and **AI-powered applications** 📝. 
+Currently, I am learning **Full Stack Web Development** and **Cloud Computing (AWS)**, aspiring to be a **successful developer and designer** 👨‍💻.  
 
 I am a **certified AWS Cloud Practitioner** and actively participate in **hackathons, design competitions, and startup initiatives** to build impactful solutions for society. I recently qualified for **Round 2 of IIT Madras Design Blitz 2025**, where I designed an AI-powered meeting summary feature for Google Meet.  
 
